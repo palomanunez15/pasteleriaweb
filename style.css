@@ -1,0 +1,88 @@
+body {
+    background-color:#FCECC9;
+}
+
+
+
+.imgGalleta {
+    width: 200px;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(189, 185, 185);
+    margin: 20px;
+
+}
+
+.mainIndex{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.menu li{
+    margin: 5px;
+    list-style: none;
+    
+}
+
+.menu li a{
+    text-decoration: none;
+    font-family: "Architects Daughter", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+      }
+      
+
+
+.img_saladas{
+    width: 250px;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(189, 185, 185);
+    margin: 20px;
+
+    
+}
+
+.img-logo{
+border-radius: 50px;
+box-shadow: 5px 5px 5px rgb(189, 185, 185);
+}
+.div_principal{
+    background-image: url(./IMAGENES/FONDO\ TORTAS.jpg);
+    width:max-content;
+    height: auto;
+    margin: 20px;
+}
+
+h2{
+    font-family: "Satisfy", cursive;
+    font-weight: 300px;
+    font-style: normal;
+    font-size: 60px;
+}
+h3{
+    font-family: "Cedarville Cursive", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+}
+.parrafo_principal{
+    font-family: "Just Another Hand", cursive;
+  font-weight: 150px;
+  font-style: normal;
+  font-size: 30px;
+  
+}
+.recetas_{
+    margin: 20px;
+}
+.estilo_titulo{
+    margin: 20px;
+}
